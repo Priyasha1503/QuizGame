@@ -45,5 +45,8 @@ pip install streamlit pandas
 5.**Run the App**
 streamlit run app.py
 
+🙋‍♀️ About the Author
 
 Created by **Priyasha Sabbavarapu** as part of **MICRO IT ONLINE INTERNSHIP**. This project demonstrates skills in Python, building interactive web apps, and handling user inputs and data persistence.
+
+
