@@ -45,6 +45,25 @@ pip install streamlit pandas
 5.**Run the App**
 streamlit run app.py
 
+6.**Output**
+##Home Screen
+![image](https://github.com/user-attachments/assets/792d4d65-3a54-4034-8ad6-ad7f7f5f63b3)
+
+##Choose Domain of the Quiz
+![image](https://github.com/user-attachments/assets/497e032c-a424-4cec-979b-f5f96805f8bf)
+
+##Quizgame
+![image](https://github.com/user-attachments/assets/3d7be749-da9c-4a69-abcd-df1cb4b4e899)
+
+##End of the game - Score
+![image](https://github.com/user-attachments/assets/37bc3db9-afff-463b-a9af-62fb1a2083a2)
+
+
+Contact 
+
+
+
+
 🙋‍♀️ About the Author
 
 Created by **Priyasha Sabbavarapu** as part of **MICRO IT ONLINE INTERNSHIP**. This project demonstrates skills in Python, building interactive web apps, and handling user inputs and data persistence.
